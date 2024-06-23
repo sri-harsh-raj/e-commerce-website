@@ -1,2 +1,2 @@
-# e-commerce-website
+# e-commerce website
 a simple unique website
